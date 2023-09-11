@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there i'm Gustavoo  👋
+<br>
+-eu estou cursando t.i na oswaldo cruz
+<br>
+-i'm cursing banco de dados, html & css, visual basic, cisco
+<br>
+-Eu gosto de jogos 
+
 
 <!--
 **GugaSout/GugaSout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
